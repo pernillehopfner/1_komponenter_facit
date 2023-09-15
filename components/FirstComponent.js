@@ -1,11 +1,11 @@
 import React from 'react'
 import {Text,View} from 'react-native'
 
-
+//Det første hej man ser i toppen!
 const FirstComponent = () => {
     return(
         <View>
-            <Text>1. Dette er den første component</Text>
+            <Text>Hej!</Text>
         </View>
     )
 }

@@ -5,7 +5,7 @@ import {Text, TextInput, View} from 'react-native'
 const InputComponent = () => {
 
     /*deklarer vores states, med først værdi og derefter vores sætter*/
-    const [inputValue, setInputValue] = useState("")
+const [inputValue, setInputValue] = useState("")
 
     return(
         <View>

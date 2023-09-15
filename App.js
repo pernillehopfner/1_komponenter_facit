@@ -18,7 +18,7 @@ export default function App() {
       <FirstComponent/>
 
       {/*Komponent med Props*/}
-      <PropsComponent name={"Eigil & jesper"}/>
+      <PropsComponent name={"Pernille Høpfner"}/>
 
       {/* Dynamisk farveknap */}
       <ButtonComponent/>
